@@ -9,8 +9,8 @@
 >- Click on the <kbd> **Fork** </kbd> button in the top right of the page
 
 #####3. Clone This Repo
-
->1. In your terminal verify you are in the proper directory
+>1. **After** Forking
+1. In your terminal verify you are in the proper directory
   1. You should be in your `lfz` directory
   1. To check your directory type `pwd` then press <kbd>Enter </kbd>
     1. You should see something along the lines of:
