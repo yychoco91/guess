@@ -15,7 +15,7 @@
 ### Functional Scope
 - In your script tag, make a variable, called 'the_number', set it's value to null
 - Add a on load handler to the body
-  - it calls the function "pick_number".  It assigns its return value to the variable "the_number"
+  - it calls the function "pick_number" and assigns its return value to the variable "the_number"
 - In your script tag, make a function called "pick_number"
     - it takes no parameters
     - it returns a number
