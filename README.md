@@ -17,7 +17,7 @@
     1. `/Applications/MAMP/htdocs/lfz`
     1. If you are not in the proper directory navigate to the `lfz` folder, if you're not sure how, contact an instructor
 1. Enter the following command into the terminal to clone the `Guess` repo
-  1. `git clone https://github.com/Learning-Fuze/guess.git`
+  1. `git clone https://github.com/[Your User Name]/guess.git`
 
 #####4. Navigate to guess
 
